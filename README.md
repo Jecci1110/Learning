@@ -1,2 +1,3 @@
-# jecci-sharing
-To share anything meaningful in life and study.
+# Learning
+This is a place for me to collect anything fantastic from other fantasitic people.
+Life is about learning.
